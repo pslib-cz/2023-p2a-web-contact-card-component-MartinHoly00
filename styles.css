@@ -1,0 +1,51 @@
+.mainClass{
+    background-color: cyan;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 5px white;
+    background-image: url(./img/bg.webp);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.card{
+    background-color: white;
+    width: 20em;
+    display: inline-block;
+    margin: .5em;
+    margin-top: 6em;
+    box-shadow: .5em .25em .5em gray;
+    text-align: left;
+}
+
+.cardHeader{
+    width: 10em;
+    height: 10em;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: -5em;
+    border: .15em solid white;
+}
+
+.cardContent{
+    padding: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cardHeading{
+    font-size: 1.15em;
+    margin: 0;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid black;
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+}
