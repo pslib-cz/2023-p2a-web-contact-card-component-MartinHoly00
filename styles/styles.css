@@ -1,12 +1,12 @@
 .mainClass{
-    background-color: cyan;
+    background-color: gray;
 }
 
 .container{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     border: 5px white;
-    background-image: url(./img/bg.webp);
+    background-image: url(../img/bg.webp);
     background-position: center;
     background-size: cover;
     text-align: center;
